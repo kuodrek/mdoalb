@@ -1,0 +1,9 @@
+Como organizar as estruturas de dados do mdo?
+- Usar variáveis (como no matlab)
+- Criar objetos (asa, eh, aviao_geometria, cond_voo, aviao_desempenho)
+
+Qual método de otimização utilizar?
+
+Criar interface para rodar o mdo
+
+Função para salvar valores no excel
